@@ -6,18 +6,18 @@ Hello and welcome! We're excited to have you join us for this interesting and ch
 
 ## Task
 
-Your task is to create a web crawler that retrieves all the public prompts (and all related jpg/png) from the following websites:
-你的任务是创建一个网络爬虫，从以下网站获取所有公开的提示词，以及相关的图片/图像：
+Your task is to create a web crawler that retrieves all the public prompts or content (and all related jpg/png) from the following websites:
+你的任务是创建一个网络爬虫，从以下网站获取所有公开的内容，以及相关的图片/图像：
 
-1. [Best Prompts](https://prompt-shortcut.writeathon.cn)
+1. [Fiverr](https://www.fiverr.com/)
 2. [OpenArt](https://openart.ai/presets)
 3. [绘AI](https://www.ai016.com)
 
-A significant part of the task is to identify the data you need to retrieve. So think carefully about what constitutes a "prompt" on these sites, and decide what information needs to be included in your submission. 
+A significant part of the task is to identify the data you need to retrieve. So think carefully about what constitutes a "prompt" (or a service) on these sites, and decide what information needs to be included in your submission. 
 
 Please remember to be respectful of these websites and their resources while running your web crawler. Be considerate and space out your requests so as not to overwhelm the servers.
 
-任务的重要一部分是确定你需要检索的数据。因此，请仔细考虑这些网站上的“提示”是什么，并决定需要在你的提交中包含哪些信息。
+任务的重要一部分是确定你需要检索的数据。因此，请仔细考虑这些网站上的“核心内容”（如提示词、产品信息）是什么，并决定需要在你的提交中包含哪些信息。
 
 在运行网络爬虫时，请记得要尊重这些网站及其资源。请考虑周到，合理安排你的请求，以免对服务器造成过大压力。
 
