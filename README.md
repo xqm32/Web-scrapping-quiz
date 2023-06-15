@@ -6,8 +6,8 @@ Hello and welcome! We're excited to have you join us for this interesting and ch
 
 ## Task
 
-Your task is to create a web crawler that retrieves all the public prompts from the following websites:
-你的任务是创建一个网络爬虫，从以下网站获取所有公开的提示词：
+Your task is to create a web crawler that retrieves all the public prompts (and all related jpg/png) from the following websites:
+你的任务是创建一个网络爬虫，从以下网站获取所有公开的提示词，以及相关的图片/图像：
 
 1. [Best Prompts](https://prompt-shortcut.writeathon.cn)
 2. [OpenArt](https://openart.ai/presets)
